@@ -16,4 +16,4 @@ GitHub flavored Markdown (GFM)
 
 Apply styles to GFM table with programmatically (style filter)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. include:: md_example_with_style_style.txt
+.. include:: md_example_with_style_filter.txt
