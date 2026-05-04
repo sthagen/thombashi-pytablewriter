@@ -225,8 +225,8 @@ GFM can apply some additional styles to tables such as ``fg_color`` (text color)
 
 Rendered results can be found at `here <https://github.com/thombashi/pytablewriter/blob/master/docs/pages/examples/output/markdown/gfm.md>`__
 
-Apply styles to GFM table with programmatically
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Programmatically applying styles to a GFM table (style filter)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Applying style filters to GFM allows for more flexible style settings for cells.
 See also the `example <#style-filter>`_
 

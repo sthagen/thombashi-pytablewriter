@@ -48,7 +48,7 @@ def write_examples(maker: ReadmeMaker) -> None:
             examples_root.joinpath("table_format", "text", "markdown", "md_example_with_flavor.txt")
         )
 
-        maker.write_chapter("Apply styles to GFM table with programmatically")
+        maker.write_chapter("Programmatically applying styles to a GFM table (style filter)")
         maker.write_lines(
             [
                 "Applying style filters to GFM allows for more flexible style settings for cells.",
