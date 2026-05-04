@@ -1,6 +1,6 @@
 Dependencies
 ============
-- Python 3.9+
+- Python 3.10+
 - `Python package dependencies (automatically installed) <https://github.com/thombashi/pytablewriter/network/dependencies>`__
 
 
