@@ -9,7 +9,7 @@ import pytest
 from pytablewriter.sanitizer import ElasticsearchIndexNameSanitizer
 
 
-INVALID_ES_CHARS = ["\\", "," "*", "?", '"', "<", ">", "|", " "]
+INVALID_ES_CHARS = ["\\", ",", "*", "?", '"', "<", ">", "|", " "]
 
 
 class Test_ElasticsearchIndexNameSanitizer:
