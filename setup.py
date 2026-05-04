@@ -118,7 +118,7 @@ setuptools.setup(
         "Tracker": f"{REPOSITORY_URL:s}/issues",
     },
     python_requires=">=3.9",
-    install_requires=setuptools_require + install_requires,
+    install_requires=install_requires,
     setup_requires=setuptools_require,
     extras_require={
         "all": all_requires,
