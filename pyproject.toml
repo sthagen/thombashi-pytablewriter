@@ -27,7 +27,7 @@ exclude = '''
 | setup.py
 '''
 line-length = 100
-target-version = ['py39', 'py310', 'py311', 'py312', 'py313']
+target-version = ['py310', 'py311', 'py312', 'py313', 'py314']
 
 [tool.isort]
 include_trailing_comma = true
@@ -74,7 +74,7 @@ show_missing = true
 
 [tool.mypy]
 ignore_missing_imports = true
-python_version = 3.9
+python_version = "3.10"
 
 pretty = true
 
@@ -101,7 +101,7 @@ exclude = [
     "build",
     "dist"
 ]
-pythonVersion = "3.9"
+pythonVersion = "3.10"
 
 [tool.pytest.ini_options]
 testpaths = [
@@ -116,7 +116,7 @@ discord_verbose = 0
 
 [tool.ruff]
 line-length = 100
-target-version = "py39"
+target-version = "py310"
 exclude = [
     ".eggs/",
     ".tox/",
